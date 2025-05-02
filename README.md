@@ -43,8 +43,9 @@ _p.s. in PowerShell you have to type with keyboard by entering of numbers or som
 Application ask you to type number of option to select it. You should to type a number with keyboard and then pressing enter to get any results.
 If you typed a wrong letter / number / etc., application would pass it and asking you to enter your value again or app would text you, that your input is wrong.
 
-![img.png](img.png)
+![img](https://github.com/user-attachments/assets/8c753ded-8e06-499e-8b4f-9a61038db707)
 
 ---
+
 
 ## **Soo, enjoy watching the movie and have a nice day!**
