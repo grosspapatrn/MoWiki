@@ -26,6 +26,16 @@ _p.s. in PowerShell you have to type with keyboard by entering of numbers or som
 
 ---
 
+## **How to install all requirements?**
+
+In repository is "requirements.txt" file. So you shoud in your IDE open virtual environment and install all packages by using this command:
+```bash
+pip install -r requirements.txt
+```
+After installin this you can use this code.
+
+---
+
 ## **The application contains commands such as:**
 
 - from .. import ..
